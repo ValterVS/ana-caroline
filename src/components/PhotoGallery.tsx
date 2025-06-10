@@ -6,32 +6,32 @@ import { ChevronLeft, ChevronRight, X } from 'lucide-react';
 const photos = [
   {
     id: 1,
-    src: "/src/assets/IMG-20250610-WA0015.jpg",
+    src: "../assets/IMG-20250610-WA0015.jpg",
     alt: "Momento especial no show - vocês dois se divertindo juntos"
   },
   {
     id: 2,
-    src: "/src/assets/IMG-20250610-WA0009.jpg",
+    src: "../assets/IMG-20250610-WA0009.jpg",
     alt: "Momento romântico com flores - declaração de amor"
   },
   {
     id: 3,
-    src: "/src/assets/IMG-20250610-WA0010.jpg",
+    src: "../assets/IMG-20250610-WA0010.jpg",
     alt: "Selfie apaixonada - sorrisos genuínos de felicidade"
   },
   {
     id: 4,
-    src: "/src/assets/IMG-20250610-WA0011.jpg",
+    src: "../assets/IMG-20250610-WA0011.jpg",
     alt: "Mais um momento de carinho e cumplicidade"
   },
   {
     id: 5,
-    src: "/src/assets/IMG-20250610-WA0008.jpg",
+    src: "../assets/IMG-20250610-WA0008.jpg",
     alt: "Aventura na estrada - viagem juntos"
   },
     {
     id: 6,
-    src: "/src/assets/IMG-20250610-WA0012.jpg",
+    src: "../assets/IMG-20250610-WA0012.jpg",
     alt: "Aventura na estrada - viagem juntos"
   }
   // 🖼️ PARA ADICIONAR MAIS FOTOS: Copie o formato acima e adicione novas fotos aqui

@@ -87,7 +87,7 @@ const MusicPlayer: React.FC = () => {
           preload="metadata"
         >
           {/* 🎵 ALTERE AQUI: Substitua pela URL real da música "Realidade ou Fantasia" */}
-          <source src="/src/assets/realidadeoufantasia.mp3" type="audio/mpeg" />
+          <source src="../assets/realidadeoufantasia.mp3" type="audio/mpeg" />
           {/* 
           Para a música real, você precisará:
           1. Fazer download da música "Realidade ou Fantasia" - Henrique e Juliano

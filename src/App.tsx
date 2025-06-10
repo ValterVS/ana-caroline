@@ -37,7 +37,7 @@ function App() {
           className="absolute inset-0 bg-cover bg-center"
           style={{
             // 🖼️ Usando sua foto como fundo - foto do show
-            backgroundImage: `linear-gradient(rgba(244, 63, 94, 0.1), rgba(88, 27, 58, 0.1)), url('/src/assets/foto.png')`
+            backgroundImage: `linear-gradient(rgba(244, 63, 94, 0.1), rgba(88, 27, 58, 0.1)), url('../assets/foto.png')`
           }}
         />
         
@@ -81,7 +81,7 @@ function App() {
             <div className="w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden border-8 border-white shadow-2xl mx-auto">
               <img
                 // 🖼️ Usando sua foto romântica com flores como foto principal
-                src="/src/assets/IMG-20250610-WA0009.jpg"
+                src="../assets/IMG-20250610-WA0009.jpg"
                 alt="Nosso amor"
                 className="w-full h-full object-cover"
               />
