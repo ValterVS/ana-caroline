@@ -264,7 +264,7 @@ function App() {
                 <p className="font-playfair text-lg text-gray-700 leading-relaxed italic">
                   "Meu amor, não existem palavras suficientes para expressar o que você significa para mim. 
                   Você é a luz dos meus dias(branquela desse jeito tbm), minha companheira pros momentos bons e ruins,
-                  e minha alegria em todas as situações"
+                  e minha alegria em todas as situações."
                 </p>
                 
                 <p className="font-playfair text-lg text-gray-700 leading-relaxed italic">
